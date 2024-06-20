@@ -1,0 +1,2 @@
+vkbottle==4.3.12
+deep-translator==1.11.4
